@@ -19,6 +19,6 @@ I'm Maïa Kalina, and I'm venturing into the exciting world of tech with a focus
 Get in Touch
 
 📫 Feel free to reach out to me at kalina.maiya@gmail.com.
-Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/maïa-freja-kalina-192a8979/))!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maïa-freja-kalina-192a8979/)!
 I'm excited about the journey ahead and look forward to connecting with fellow tech enthusiasts, learners, and collaborators. Let's work together! 🚀
 -->
