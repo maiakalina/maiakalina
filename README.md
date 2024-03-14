@@ -5,14 +5,20 @@ I'm Maïa Kalina, and I'm venturing into the exciting world of tech with a focus
 ### About Me
 
 🌱 I'm currently diving deep into Python and exploring the realms of data analysis and machine learning.
-\n🔭 Currently, I'm working on completing my HyperionDev skills bootcamp, where I'm honing my skills and building projects.
-\n👯 I'm open to collaboration on any projects! I'm eager to learn, grow, and contribute to meaningful work.
-\n🤔 I'm a keen learner with a sharp academic mind. I'm always looking to learn from those who excel in their craft.
-\n💬 Outside of tech, I enjoy practicing yoga and indulging in pole dance fitness in my spare time.
-\n😄 Fun fact: I learned to cycle at the age of 33—better late than never!
-\nGet in Touch
+
+🔭 Currently, I'm working on completing my HyperionDev skills bootcamp, where I'm honing my skills and building projects.
+
+👯 I'm open to collaboration on any projects! I'm eager to learn, grow, and contribute to meaningful work.
+
+🤔 I'm a keen learner with a sharp academic mind. I'm always looking to learn from those who excel in their craft.
+
+💬 Outside of tech, I enjoy practicing yoga and indulging in pole dance fitness in my spare time.
+
+😄 Fun fact: I learned to cycle at the age of 33—better late than never!
+
+Get in Touch
 
 📫 Feel free to reach out to me at kalina.maiya@gmail.com.
 Connect with me on LinkedIn!
-I'm excited about the journey ahead and look forward to connecting with fellow tech enthusiasts, learners, and collaborators. Let's create together! 🚀
+I'm excited about the journey ahead and look forward to connecting with fellow tech enthusiasts, learners, and collaborators. Let's work together! 🚀
 -->
